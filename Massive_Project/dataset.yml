@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Dataset_Project_Massive
+train: ../train/images
+val: ../val/images
+
+nc: 6
+names: ['DangerousDriving', 'Distracted', 'Drinking', 'SafeDriving', 'SleepyDriving', 'Yawn']
