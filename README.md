@@ -1,6 +1,6 @@
 ### Massive Project
 
-Selamat datang di README untuk proyek **Massive Project** dari Kelompok 8! 🚀
+Selamat datang di README untuk **Massive Project** dari Kelompok 8! 🚀
 
 ---
 
@@ -12,11 +12,11 @@ Selamat datang di README untuk proyek **Massive Project** dari Kelompok 8! 🚀
 
 ## Fitur Utama
 
-- 💬 **Chatbot Interaktif**:
+- 💬 **Chatbot Interaktif**
   
-- 🤖  **Deteksi Real Time**: 
+- 🤖  **Deteksi Real Time**
 
-- 📷 **Deteksi Gambar**: 
+- 📷 **Deteksi Gambar**
 
 ---
 
